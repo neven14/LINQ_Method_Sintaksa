@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\bin\Debug\LINQ_Method_Sintaksa.exe.config
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\bin\Debug\LINQ_Method_Sintaksa.exe
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\bin\Debug\LINQ_Method_Sintaksa.pdb
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\obj\Debug\LINQ_Method_Sintaksa.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\obj\Debug\LINQ_Method_Sintaksa.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\obj\Debug\LINQ_Method_Sintaksa.exe
+C:\Users\Gordana\source\repos\LINQ_Method_Sintaksa\LINQ_Method_Sintaksa\obj\Debug\LINQ_Method_Sintaksa.pdb
